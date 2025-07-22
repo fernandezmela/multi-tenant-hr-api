@@ -8,6 +8,8 @@ In the process of creating a multi-tenant HR platform where Multiple Companies c
 
 
 Project So Far ...
+
+
 Created my Django Project (manage.py and settings.py) which is serving as my project root. Then i've created the Django app using core which consists of all the HR-related features. 
 
 On top of that i've created the User, Company, and Employee DB models.
